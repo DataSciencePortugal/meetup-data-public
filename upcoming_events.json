@@ -1,0 +1,37 @@
+[
+  {
+    "id": "313385219",
+    "title": "Women in AI & Data - An \"Ask Me Anything\"-style Roundtable on AI careers",
+    "description": "In celebration of **International Women’s Day**, we are hosting a special event dedicated to **celebrating Portuguese women working in Artificial Intelligence and Data**. Our goal is to highlight role models in the AI ecosystem, while also **inspiring girls and young women** to explore these fields, build confidence, and envision themselves in technical and leadership roles.\n\nDesigned for **students, early-career professionals, and anyone interested in AI, Data, and technology**, this is a **safe, open, and welcoming space** for honest conversations about careers in AI. By bringing together women at different stages of their professional journeys, we aim to promote **diversity, equality, and inclusion**, and to help bridge the confidence and representation gap that still exists in the tech industry.\n\n**️ Speakers**\n\n**Clara Matos** — *Director of Applied AI at Sword Health*\n\nClara leads Applied AI at Sword Health, where she builds and scales machine learning systems that directly impact patient care at a global scale. With a background in computer vision, human motion analysis, and large-scale AI product development, her work sits at the intersection of AI, product, and engineering, with a strong focus on real-world impact.\n\n**Filipa Castro** — *Head of AI Tech Lab at Euronext*\n\nFilipa leads the development and deployment of AI systems in production within a highly regulated environment at Euronext. With experience spanning computer vision, traditional machine learning, and generative AI, she brings a unique perspective on scaling AI responsibly while bridging research, product strategy, and organizational change.\n\n**Mariana Fonseca** — *CEO & Co-Founder of JuniorAI*\n\nMariana is a BSc student in Artificial Intelligence and Data Science at the University of Porto and the CEO and co-founder of JuniorAI, a student-led AI enterprise focused on building impactful, data-driven solutions. As a young leader in AI, she represents the growing role of student innovation, entrepreneurship, and early leadership in shaping the future of the field.\n\n**Location**\n\n**Euronext Tech Center Porto**\nRua de Aníbal Cunha 218, 4050-047 Porto\n\n**Schedule**\n\n* 16:00 — Check-in & Welcome\n* 16:15 — **Women in AI & Data**: AMA-style roundtable with the speakers\n* 17:15 — Coffee Break & Networking\n* 18:00 — Closing\n\nWhether you are a student taking your first steps in AI, a professional navigating your career, or an ally who wants to support a more inclusive tech ecosystem, **this event is for you**! Join us for an **open conversation**, **meaningful connections**, and an inspiring **celebration of women shaping the present and future of AI**.",
+    "event_url": "https://www.meetup.com/datascienceportugal/events/313385219/",
+    "datetime": "2026-03-08T16:00:00Z",
+    "end_time": "2026-03-08T18:00:00Z",
+    "created_time": "2026-02-16T11:54:17-05:00",
+    "status": "ACTIVE",
+    "event_type": "PHYSICAL",
+    "is_online": false,
+    "rsvp_state": "JOIN_OPEN",
+    "attendees_count": 61,
+    "max_tickets": 0,
+    "venue": {
+      "id": "28203905",
+      "name": "Euronext Tech Center Porto",
+      "address": "R. de Aníbal Cunha 218, 4050-047 Porto",
+      "city": "Porto",
+      "state": "",
+      "country": "pt"
+    },
+    "creator": {
+      "id": "420462459",
+      "name": "Márcio Duarte"
+    },
+    "hosts": [
+      "398297164",
+      "371612853",
+      "420462459",
+      "457993468",
+      "274692336"
+    ],
+    "featured_photo_url": "https://secure.meetupstatic.com/photos/event/d/4/6/6/highres_532914374.jpeg"
+  }
+]
