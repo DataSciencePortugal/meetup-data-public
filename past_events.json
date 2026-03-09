@@ -1,5 +1,40 @@
 [
   {
+    "id": "313385219",
+    "title": "Women in AI & Data - An \"Ask Me Anything\"-style Roundtable on AI careers",
+    "description": "In celebration of **International Women’s Day**, we are hosting a special event dedicated to **celebrating Portuguese women working in Artificial Intelligence and Data**. Our goal is to highlight role models in the AI ecosystem, while also **inspiring girls and young women** to explore these fields, build confidence, and envision themselves in technical and leadership roles.\n\nDesigned for **students, early-career professionals, and anyone interested in AI, Data, and technology**, this is a **safe, open, and welcoming space** for honest conversations about careers in AI. By bringing together women at different stages of their professional journeys, we aim to promote **diversity, equality, and inclusion**, and to help bridge the confidence and representation gap that still exists in the tech industry.\n\n**️ Speakers**\n\n**Clara Matos** — *Director of Applied AI at Sword Health*\n\nClara leads Applied AI at Sword Health, where she builds and scales machine learning systems that directly impact patient care at a global scale. With a background in computer vision, human motion analysis, and large-scale AI product development, her work sits at the intersection of AI, product, and engineering, with a strong focus on real-world impact.\n\n**Filipa Castro** — *Head of AI Tech Lab at Euronext*\n\nFilipa leads the development and deployment of AI systems in production within a highly regulated environment at Euronext. With experience spanning computer vision, traditional machine learning, and generative AI, she brings a unique perspective on scaling AI responsibly while bridging research, product strategy, and organizational change.\n\n**Mariana Fonseca** — *CEO & Co-Founder of JuniorAI*\n\nMariana is a BSc student in Artificial Intelligence and Data Science at the University of Porto and the CEO and co-founder of JuniorAI, a student-led AI enterprise focused on building impactful, data-driven solutions. As a young leader in AI, she represents the growing role of student innovation, entrepreneurship, and early leadership in shaping the future of the field.\n\n**Location**\n\n**Euronext Tech Center Porto**\nRua de Aníbal Cunha 218, 4050-047 Porto\n\n**Schedule**\n\n* 16:00 — Check-in & Welcome\n* 16:15 — **Women in AI & Data**: AMA-style roundtable with the speakers\n* 17:15 — Coffee Break & Networking\n* 18:00 — Closing\n\nWhether you are a student taking your first steps in AI, a professional navigating your career, or an ally who wants to support a more inclusive tech ecosystem, **this event is for you**! Join us for an **open conversation**, **meaningful connections**, and an inspiring **celebration of women shaping the present and future of AI**.",
+    "event_url": "https://www.meetup.com/datascienceportugal/events/313385219/",
+    "datetime": "2026-03-08T16:00:00Z",
+    "end_time": "2026-03-08T18:00:00Z",
+    "created_time": "2026-02-16T11:54:17-05:00",
+    "status": "PAST",
+    "event_type": "PHYSICAL",
+    "is_online": false,
+    "rsvp_state": "PAST",
+    "attendees_count": 39,
+    "max_tickets": 0,
+    "venue": {
+      "id": "28203905",
+      "name": "Euronext Tech Center Porto",
+      "address": "R. de Aníbal Cunha 218, 4050-047 Porto",
+      "city": "Porto",
+      "state": "",
+      "country": "pt"
+    },
+    "creator": {
+      "id": "420462459",
+      "name": "Márcio Duarte"
+    },
+    "hosts": [
+      "398297164",
+      "371612853",
+      "420462459",
+      "457993468",
+      "274692336"
+    ],
+    "featured_photo_url": "https://secure.meetupstatic.com/photos/event/d/4/6/6/highres_532914374.jpeg"
+  },
+  {
     "id": "313202670",
     "title": "DSPT AI on Tap #4 @ Dois Corvos, Lisbon",
     "description": "**🍻 Data Science Portugal presents: DSPT AI on Tap, first time in Lisbon**\n\nWe’re bringing AI on Tap to Lisbon for the very first time.\n\nNo slides. No talks. Just great people, casual conversation, and craft beer. If you work with AI, study it, build products, do research, or you’re simply curious, you’re welcome. Digital nomads, students, corporate AI folks, founders, and newcomers all fit right in.\n\n**Conversation starter: bring 1 thing to share**\nTo make it easy to meet people, we invite everyone to bring one small “conversation seed”. Any of these works:\n\n* 📌 A question you’re currently stuck on\n* 🧠 A concept you finally understood\n* 🧪 A mini experiment you tried\n* 🛠️ A tool, workflow, or prompt pattern you’re using\n* 📰 A recent paper, blog post, or demo you found interesting\n* 💼 A real-world use case you’re exploring at work or school\n\nYou can keep it short, 30 to 60 seconds is perfect.\n\n**What to expect**\n\n* 🍺 Great craft beer and relaxed community vibes\n* 🤝 Easy networking, no awkward forced intros\n* 💬 Small groups, practical chats, and lots of shared learning\n* 🌍 A diverse crowd: newcomers and experienced folks\n\n📅 **When:** 18th of February\n🕓 **Time:** 6:00 PM\n📌 **Location:** Secret location\n📍 **Address:** TBA\nBring your curiosity, grab a drink, and come share your top pick of the year. 🍻\nRSVP now!",
@@ -2274,7 +2309,7 @@
     "event_type": "ONLINE",
     "is_online": true,
     "rsvp_state": "PAST",
-    "attendees_count": 59,
+    "attendees_count": 58,
     "max_tickets": 0,
     "venue": {
       "id": "26906060",
@@ -2308,7 +2343,7 @@
     "event_type": "ONLINE",
     "is_online": true,
     "rsvp_state": "PAST",
-    "attendees_count": 83,
+    "attendees_count": 82,
     "max_tickets": 0,
     "venue": {
       "id": "26906060",
@@ -3088,7 +3123,7 @@
     "event_type": "PHYSICAL",
     "is_online": false,
     "rsvp_state": "PAST",
-    "attendees_count": 59,
+    "attendees_count": 57,
     "max_tickets": 100,
     "venue": {
       "id": "26490299",
@@ -3158,7 +3193,7 @@
     "event_type": "PHYSICAL",
     "is_online": false,
     "rsvp_state": "PAST",
-    "attendees_count": 39,
+    "attendees_count": 38,
     "max_tickets": 70,
     "venue": {
       "id": "26484846",
@@ -3226,7 +3261,7 @@
     "event_type": "PHYSICAL",
     "is_online": false,
     "rsvp_state": "PAST",
-    "attendees_count": 35,
+    "attendees_count": 34,
     "max_tickets": 60,
     "venue": {
       "id": "26646262",
@@ -3396,7 +3431,7 @@
     "event_type": "PHYSICAL",
     "is_online": false,
     "rsvp_state": "PAST",
-    "attendees_count": 79,
+    "attendees_count": 78,
     "max_tickets": 130,
     "venue": {
       "id": "26421801",
@@ -3735,7 +3770,7 @@
     "event_type": "PHYSICAL",
     "is_online": false,
     "rsvp_state": "PAST",
-    "attendees_count": 48,
+    "attendees_count": 47,
     "max_tickets": 0,
     "venue": {
       "id": "26091197",
@@ -3837,7 +3872,7 @@
     "event_type": "PHYSICAL",
     "is_online": false,
     "rsvp_state": "PAST",
-    "attendees_count": 73,
+    "attendees_count": 72,
     "max_tickets": 110,
     "venue": {
       "id": "25881633",
@@ -3938,7 +3973,7 @@
     "event_type": "PHYSICAL",
     "is_online": false,
     "rsvp_state": "PAST",
-    "attendees_count": 60,
+    "attendees_count": 59,
     "max_tickets": 120,
     "venue": {
       "id": "25978194",
@@ -3971,7 +4006,7 @@
     "event_type": "PHYSICAL",
     "is_online": false,
     "rsvp_state": "PAST",
-    "attendees_count": 62,
+    "attendees_count": 57,
     "max_tickets": 100,
     "venue": {
       "id": "25972085",
@@ -4004,7 +4039,7 @@
     "event_type": "PHYSICAL",
     "is_online": false,
     "rsvp_state": "PAST",
-    "attendees_count": 58,
+    "attendees_count": 56,
     "max_tickets": 80,
     "venue": {
       "id": "25965756",
@@ -4038,7 +4073,7 @@
     "event_type": "PHYSICAL",
     "is_online": false,
     "rsvp_state": "PAST",
-    "attendees_count": 43,
+    "attendees_count": 41,
     "max_tickets": 50,
     "venue": {
       "id": "25944386",
@@ -4072,7 +4107,7 @@
     "event_type": "PHYSICAL",
     "is_online": false,
     "rsvp_state": "PAST",
-    "attendees_count": 39,
+    "attendees_count": 36,
     "max_tickets": 60,
     "venue": {
       "id": "25960888",
@@ -4105,7 +4140,7 @@
     "event_type": "PHYSICAL",
     "is_online": false,
     "rsvp_state": "PAST",
-    "attendees_count": 40,
+    "attendees_count": 39,
     "max_tickets": 85,
     "venue": {
       "id": "25926251",
@@ -4138,7 +4173,7 @@
     "event_type": "PHYSICAL",
     "is_online": false,
     "rsvp_state": "PAST",
-    "attendees_count": 31,
+    "attendees_count": 29,
     "max_tickets": 60,
     "venue": {
       "id": "17184962",
@@ -4337,7 +4372,7 @@
     "event_type": "PHYSICAL",
     "is_online": false,
     "rsvp_state": "PAST",
-    "attendees_count": 43,
+    "attendees_count": 42,
     "max_tickets": 100,
     "venue": {
       "id": "25827876",
@@ -4852,7 +4887,7 @@
     "event_type": "PHYSICAL",
     "is_online": false,
     "rsvp_state": "PAST",
-    "attendees_count": 105,
+    "attendees_count": 104,
     "max_tickets": 145,
     "venue": {
       "id": "25560786",
@@ -5043,7 +5078,7 @@
     "event_type": "PHYSICAL",
     "is_online": false,
     "rsvp_state": "PAST",
-    "attendees_count": 48,
+    "attendees_count": 47,
     "max_tickets": 80,
     "venue": {
       "id": "24799957",
@@ -5258,7 +5293,7 @@
     "event_type": "PHYSICAL",
     "is_online": false,
     "rsvp_state": "PAST",
-    "attendees_count": 24,
+    "attendees_count": 23,
     "max_tickets": 45,
     "venue": {
       "id": "24772386",
@@ -5329,7 +5364,7 @@
     "event_type": "PHYSICAL",
     "is_online": false,
     "rsvp_state": "PAST",
-    "attendees_count": 28,
+    "attendees_count": 27,
     "max_tickets": 0,
     "venue": {
       "id": "24772386",
