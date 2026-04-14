@@ -1,1 +1,64 @@
-[]
+[
+  {
+    "id": "314262121",
+    "title": "DSPT x TensorOps: Programmatic Advertising in the Age of AI",
+    "description": "**Lisbon, let’s talk about ads 🤑🤖✨**Ever wonder how the digital ads you see are chosen in mere milliseconds? Behind every screen, complex AI and algorithms is quietly powering the internet's economy.\n\n**[Data Science Portugal](https://www.linkedin.com/company/11336688/admin/page-posts/published/?share=true#) × [TensorOps](tensorops.ai)** are teaming up for **“Beyond the Click: Programmatic Advertising in the Age of AI.”**\n\nThe era of basic bidding is behind us. Machine learning, generative models, and predictive analytics are completely rewriting the rules of audience targeting, yield optimization, and campaign generation. Whether you're building the algorithms yourself or just curious about the tech shaping digital advertising on the web, this is where you need to be.\n\nJoin us for an exclusive, unfiltered **roundtable including top leaders from the advertising and publishing industry**. We’ll be decoding the algorithms driving the next generation of ads, followed by high-level **networking 🧠🤝** with Lisbon's top data scientists, ML engineers, and AdTech innovators.\n\n📍**In-person:** IDEA Spaces Saldanha\n**🗓️ Agenda and Speakers:** TBA\n\n**See you soon 👋**",
+    "event_url": "https://www.meetup.com/datascienceportugal/events/314262121/",
+    "datetime": "2026-06-17T17:30:00+01:00",
+    "end_time": "2026-06-17T20:00:00+01:00",
+    "created_time": "2026-04-13T10:00:10-04:00",
+    "status": "ACTIVE",
+    "event_type": "PHYSICAL",
+    "is_online": false,
+    "rsvp_state": "JOIN_OPEN",
+    "attendees_count": 2,
+    "max_tickets": 100,
+    "venue": {
+      "id": "27096074",
+      "name": "IDEA Spaces - Saldanha",
+      "address": "Av. Defensores de Chaves 4",
+      "city": "Lisboa",
+      "state": "",
+      "country": "pt"
+    },
+    "creator": {
+      "id": "371689865",
+      "name": "Claudio Lemos"
+    },
+    "hosts": [
+      "371689865"
+    ],
+    "featured_photo_url": "https://secure.meetupstatic.com/photos/event/d/c/2/2/highres_533696354.jpeg"
+  },
+  {
+    "id": "314261868",
+    "title": "DSPT x Devoteam: AI Agents on the Run",
+    "description": "**Lisbon, let’s talk AI agents 🤖✨**\n**[Data Science Portugal](https://www.linkedin.com/company/11336688/admin/page-posts/published/?share=true#) × Devoteam** are teaming up for ***“AI Agents On the Run”***. More information soon 🧠🤝\n\n📍In-person: Devoteam Portugal (Oriente)\n\n**🗓️ Agenda**\nTBA\n\n**See you soon 👋**",
+    "event_url": "https://www.meetup.com/datascienceportugal/events/314261868/",
+    "datetime": "2026-04-29T17:30:00+01:00",
+    "end_time": "2026-04-29T20:00:00+01:00",
+    "created_time": "2026-04-13T09:45:21-04:00",
+    "status": "ACTIVE",
+    "event_type": "PHYSICAL",
+    "is_online": false,
+    "rsvp_state": "JOIN_OPEN",
+    "attendees_count": 6,
+    "max_tickets": 80,
+    "venue": {
+      "id": "26400544",
+      "name": "Devoteam Portugal",
+      "address": "Av. Dom João II 43",
+      "city": "Lisboa",
+      "state": "",
+      "country": "pt"
+    },
+    "creator": {
+      "id": "371689865",
+      "name": "Claudio Lemos"
+    },
+    "hosts": [
+      "371689865"
+    ],
+    "featured_photo_url": "https://secure.meetupstatic.com/photos/event/d/c/2/5/highres_533696357.jpeg"
+  }
+]
