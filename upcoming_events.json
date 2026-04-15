@@ -1,22 +1,22 @@
 [
   {
-    "id": "314262121",
-    "title": "DSPT x TensorOps: Programmatic Advertising in the Age of AI",
-    "description": "**Lisbon, let’s talk about ads 🤑🤖✨**Ever wonder how the digital ads you see are chosen in mere milliseconds? Behind every screen, complex AI and algorithms is quietly powering the internet's economy.\n\n**[Data Science Portugal](https://www.linkedin.com/company/11336688/admin/page-posts/published/?share=true#) × [TensorOps](tensorops.ai)** are teaming up for **“Beyond the Click: Programmatic Advertising in the Age of AI.”**\n\nThe era of basic bidding is behind us. Machine learning, generative models, and predictive analytics are completely rewriting the rules of audience targeting, yield optimization, and campaign generation. Whether you're building the algorithms yourself or just curious about the tech shaping digital advertising on the web, this is where you need to be.\n\nJoin us for an exclusive, unfiltered **roundtable including top leaders from the advertising and publishing industry**. We’ll be decoding the algorithms driving the next generation of ads, followed by high-level **networking 🧠🤝** with Lisbon's top data scientists, ML engineers, and AdTech innovators.\n\n📍**In-person:** IDEA Spaces Saldanha\n**🗓️ Agenda and Speakers:** TBA\n\n**See you soon 👋**",
-    "event_url": "https://www.meetup.com/datascienceportugal/events/314262121/",
-    "datetime": "2026-06-17T17:30:00+01:00",
-    "end_time": "2026-06-17T20:00:00+01:00",
-    "created_time": "2026-04-13T10:00:10-04:00",
+    "id": "314276550",
+    "title": "DSPT AI on Tap #5 @ Cerveja Canil",
+    "description": "**🍻 Data Science Portugal presents: DSPT AI on Tap back in Lisbon**\n\nWe’re bringing AI on Tap back to Lisbon. No slides. No talks. Just great people, casual conversation, and craft beer. If you work with AI, study it, build products, do research, or you’re simply curious, you’re welcome. Digital nomads, students, corporate AI folks, founders, and newcomers all fit right in.\n\n**Conversation starter: bring 1 thing to share**\n\nTo make it easy to meet people, we invite everyone to bring one small “conversation seed”. Any of these works:\n\n* 📌 A question you’re currently stuck on\n* 🧠 A concept you finally understood\n* 🧪 A mini experiment you tried\n* 🛠️ A tool, workflow, or prompt pattern you’re using\n* 📰 A recent paper, blog post, or demo you found interesting\n* 💼 A real-world use case you’re exploring at work or school\n\nYou can keep it short, 30 to 60 seconds is perfect.\n\n**What to expect**\n\n* 🍺 Great craft beer and relaxed community vibes\n* 🤝 Easy networking, no awkward forced intros\n* 💬 Small groups, practical chats, and lots of shared learning\n* 🌍 A diverse crowd: newcomers and experienced folks\n\n📅 **When:** June 24\n🕓 **Time:** 5:45 PM\n📌 **Location:** Cerveja Canil\n\nBring your curiosity, grab a drink, and come share your top pick of the year. 🍻\n\n**RSVP now!**",
+    "event_url": "https://www.meetup.com/datascienceportugal/events/314276550/",
+    "datetime": "2026-06-24T17:45:00+01:00",
+    "end_time": "2026-06-24T20:00:00+01:00",
+    "created_time": "2026-04-14T06:31:39-04:00",
     "status": "ACTIVE",
     "event_type": "PHYSICAL",
     "is_online": false,
     "rsvp_state": "JOIN_OPEN",
-    "attendees_count": 2,
-    "max_tickets": 100,
+    "attendees_count": 5,
+    "max_tickets": 30,
     "venue": {
-      "id": "27096074",
-      "name": "IDEA Spaces - Saldanha",
-      "address": "Av. Defensores de Chaves 4",
+      "id": "26164199",
+      "name": "Cerveja Canil",
+      "address": "Rua dos Douradores, 133, 1100-213",
       "city": "Lisboa",
       "state": "",
       "country": "pt"
@@ -28,7 +28,100 @@
     "hosts": [
       "371689865"
     ],
-    "featured_photo_url": "https://secure.meetupstatic.com/photos/event/d/c/2/2/highres_533696354.jpeg"
+    "featured_photo_url": "https://secure.meetupstatic.com/photos/event/c/9/7/highres_533703223.jpeg"
+  },
+  {
+    "id": "314262121",
+    "title": "DSPT x TensorOps: Programmatic Advertising in the Age of AI",
+    "description": "**Lisbon, let’s talk about ads 🤑🤖✨**Ever wonder how the digital ads you see are chosen in mere milliseconds? Behind every screen, complex AI and algorithms is quietly powering the internet's economy.\n\n**[Data Science Portugal](https://www.linkedin.com/company/11336688/admin/page-posts/published/?share=true#) × [TensorOps](tensorops.ai)** are teaming up for **“Beyond the Click: Programmatic Advertising in the Age of AI.”**\n\nThe era of basic bidding is behind us. Machine learning, generative models, and predictive analytics are completely rewriting the rules of audience targeting, yield optimization, and campaign generation. Whether you're building the algorithms yourself or just curious about the tech shaping digital advertising on the web, this is where you need to be.\n\nJoin us for an exclusive, unfiltered **roundtable including top leaders from the advertising and publishing industry**. We’ll be decoding the algorithms driving the next generation of ads, followed by high-level **networking 🧠🤝** with Lisbon's top data scientists, ML engineers, and AdTech innovators.\n\n📍**In-person:** Lisbon Location TBA\n**🗓️ Agenda and Speakers:** TBA\n\n**See you soon 👋**",
+    "event_url": "https://www.meetup.com/datascienceportugal/events/314262121/",
+    "datetime": "2026-06-17T17:30:00+01:00",
+    "end_time": "2026-06-17T20:00:00+01:00",
+    "created_time": "2026-04-13T10:00:10-04:00",
+    "status": "ACTIVE",
+    "event_type": "PHYSICAL",
+    "is_online": false,
+    "rsvp_state": "JOIN_OPEN",
+    "attendees_count": 7,
+    "max_tickets": 100,
+    "venue": {
+      "id": "28000134",
+      "name": "Lisbon (TBA)",
+      "address": "1100-148 Lisbon, Portugal",
+      "city": "Lisbon",
+      "state": "",
+      "country": "pt"
+    },
+    "creator": {
+      "id": "371689865",
+      "name": "Claudio Lemos"
+    },
+    "hosts": [
+      "371689865"
+    ],
+    "featured_photo_url": "https://secure.meetupstatic.com/photos/event/b/e/e/highres_533703054.jpeg"
+  },
+  {
+    "id": "314276559",
+    "title": "DSPT x DareData: Primavera AI Fest",
+    "description": "Event info soon\n\n📍**In-person:** Dare Data Alvalade\n**🗓️ Agenda and Speakers:** TBA\n\n**See you soon 👋**",
+    "event_url": "https://www.meetup.com/datascienceportugal/events/314276559/",
+    "datetime": "2026-06-03T17:30:00+01:00",
+    "end_time": "2026-06-03T20:00:00+01:00",
+    "created_time": "2026-04-14T06:36:31-04:00",
+    "status": "ACTIVE",
+    "event_type": "PHYSICAL",
+    "is_online": false,
+    "rsvp_state": "JOIN_OPEN",
+    "attendees_count": 7,
+    "max_tickets": 100,
+    "venue": {
+      "id": "28230621",
+      "name": "DareData",
+      "address": "Av. da Igreja 42 3 Esquerdo, 1700-239",
+      "city": "Lisboa",
+      "state": "",
+      "country": "pt"
+    },
+    "creator": {
+      "id": "371689865",
+      "name": "Claudio Lemos"
+    },
+    "hosts": [
+      "371689865"
+    ],
+    "featured_photo_url": "https://secure.meetupstatic.com/photos/event/b/9/a/highres_533702970.jpeg"
+  },
+  {
+    "id": "314276565",
+    "title": "DSPT x Indie Campers: Primavera AI Fest",
+    "description": "Event info soon\n\n📍**In-person:** Indie Campers Lisbon HQ\n**🗓️ Agenda and Speakers:** TBA\n\n**See you soon 👋**",
+    "event_url": "https://www.meetup.com/datascienceportugal/events/314276565/",
+    "datetime": "2026-05-13T17:30:00+01:00",
+    "end_time": "2026-05-13T20:00:00+01:00",
+    "created_time": "2026-04-14T06:37:50-04:00",
+    "status": "ACTIVE",
+    "event_type": "PHYSICAL",
+    "is_online": false,
+    "rsvp_state": "JOIN_OPEN",
+    "attendees_count": 5,
+    "max_tickets": 100,
+    "venue": {
+      "id": "28230622",
+      "name": "Indie Campers HQ",
+      "address": "Av. República 90, 1600-206",
+      "city": "Lisboa",
+      "state": "",
+      "country": "pt"
+    },
+    "creator": {
+      "id": "371689865",
+      "name": "Claudio Lemos"
+    },
+    "hosts": [
+      "371689865"
+    ],
+    "featured_photo_url": "https://secure.meetupstatic.com/photos/event/b/9/c/highres_533702972.jpeg"
   },
   {
     "id": "314261868",
@@ -42,7 +135,7 @@
     "event_type": "PHYSICAL",
     "is_online": false,
     "rsvp_state": "JOIN_OPEN",
-    "attendees_count": 6,
+    "attendees_count": 18,
     "max_tickets": 80,
     "venue": {
       "id": "26400544",
@@ -60,5 +153,36 @@
       "371689865"
     ],
     "featured_photo_url": "https://secure.meetupstatic.com/photos/event/d/c/2/5/highres_533696357.jpeg"
+  },
+  {
+    "id": "314276544",
+    "title": "DSPT AI on Tap #4 @ Golden Dragon",
+    "description": "**🍻 Data Science Portugal presents: DSPT AI on Tap back in Lisbon**\n\nWe’re bringing AI on Tap back to Lisbon. No slides. No talks. Just great people, casual conversation, and craft beer. If you work with AI, study it, build products, do research, or you’re simply curious, you’re welcome. Digital nomads, students, corporate AI folks, founders, and newcomers all fit right in.\n\n**Conversation starter: bring 1 thing to share**\n\nTo make it easy to meet people, we invite everyone to bring one small “conversation seed”. Any of these works:\n\n* 📌 A question you’re currently stuck on\n* 🧠 A concept you finally understood\n* 🧪 A mini experiment you tried\n* 🛠️ A tool, workflow, or prompt pattern you’re using\n* 📰 A recent paper, blog post, or demo you found interesting\n* 💼 A real-world use case you’re exploring at work or school\n\nYou can keep it short, 30 to 60 seconds is perfect.\n\n**What to expect**\n\n* 🍺 Great craft beer and relaxed community vibes\n* 🤝 Easy networking, no awkward forced intros\n* 💬 Small groups, practical chats, and lots of shared learning\n* 🌍 A diverse crowd: newcomers and experienced folks\n\n📅 **When:** April 22\n🕓 **Time:** 5:45 PM\n📌 **Location:** Golden Dragon Lisboa\n\nBring your curiosity, grab a drink, and come share your top pick of the year. 🍻\n\n**RSVP now!**",
+    "event_url": "https://www.meetup.com/datascienceportugal/events/314276544/",
+    "datetime": "2026-04-22T17:45:00+01:00",
+    "end_time": "2026-04-22T20:00:00+01:00",
+    "created_time": "2026-04-14T06:30:13-04:00",
+    "status": "ACTIVE",
+    "event_type": "PHYSICAL",
+    "is_online": false,
+    "rsvp_state": "JOIN_OPEN",
+    "attendees_count": 11,
+    "max_tickets": 30,
+    "venue": {
+      "id": "27773897",
+      "name": "Golden Dragon",
+      "address": "R. Andrade Corvo 29A,,",
+      "city": "Lisbon",
+      "state": "",
+      "country": "PT"
+    },
+    "creator": {
+      "id": "371689865",
+      "name": "Claudio Lemos"
+    },
+    "hosts": [
+      "371689865"
+    ],
+    "featured_photo_url": "https://secure.meetupstatic.com/photos/event/c/7/e/highres_533703198.jpeg"
   }
 ]
