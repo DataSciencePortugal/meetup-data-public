@@ -1,5 +1,36 @@
 [
   {
+    "id": "314276544",
+    "title": "DSPT AI on Tap - Beers & Networking @ Golden Dragon",
+    "description": "**🍻 Data Science Portugal presents: DSPT AI on Tap back in Lisbon**\n\nWe’re bringing AI on Tap back to Lisbon. No slides. No talks. Just great people, casual conversation, and craft beer. If you work with AI, study it, build products, do research, or you’re simply curious, you’re welcome. Digital nomads, students, corporate AI folks, founders, and newcomers all fit right in.\n\n**Conversation starter: bring 1 thing to share**\n\nTo make it easy to meet people, we invite everyone to bring one small “conversation seed”. Any of these works:\n\n* 📌 A question you’re currently stuck on\n* 🧠 A concept you finally understood\n* 🧪 A mini experiment you tried\n* 🛠️ A tool, workflow, or prompt pattern you’re using\n* 📰 A recent paper, blog post, or demo you found interesting\n* 💼 A real-world use case you’re exploring at work or school\n\nYou can keep it short, 30 to 60 seconds is perfect.\n\n**What to expect**\n\n* 🍺 Great craft beer and relaxed community vibes\n* 🤝 Easy networking, no awkward forced intros\n* 💬 Small groups, practical chats, and lots of shared learning\n* 🌍 A diverse crowd: newcomers and experienced folks\n\n📅 **When:** April 22\n🕓 **Time:** 5:45 PM\n📌 **Location:** Golden Dragon Lisboa\n\nBring your curiosity, grab a drink, and come share your top pick of the year. 🍻\n\n**RSVP now!**",
+    "event_url": "https://www.meetup.com/datascienceportugal/events/314276544/",
+    "datetime": "2026-04-22T17:45:00+01:00",
+    "end_time": "2026-04-22T20:00:00+01:00",
+    "created_time": "2026-04-14T06:30:13-04:00",
+    "status": "PAST",
+    "event_type": "PHYSICAL",
+    "is_online": false,
+    "rsvp_state": "PAST",
+    "attendees_count": 32,
+    "max_tickets": 0,
+    "venue": {
+      "id": "27773897",
+      "name": "Golden Dragon",
+      "address": "R. Andrade Corvo 29A,,",
+      "city": "Lisbon",
+      "state": "",
+      "country": "PT"
+    },
+    "creator": {
+      "id": "371689865",
+      "name": "Claudio Lemos"
+    },
+    "hosts": [
+      "371689865"
+    ],
+    "featured_photo_url": "https://secure.meetupstatic.com/photos/event/c/7/e/highres_533703198.jpeg"
+  },
+  {
     "id": "313693667",
     "title": "DSPT x Data Makers Fest - A Vibe Coding Party",
     "description": "**Data Science Portugal (DSPT)** is teaming up with **Data Makers Fest** for a special warm-up event ahead of the conference: a **Vibe Coding Party** focused on **creativity**, **GenAI**, and **development with code agents**.\n\nThis event is for people who enjoy building things, experimenting with new tools, and solving real problems in creative ways 💡\n\n**🧠 What’s going to happen?**\n\nOver the course of a full day, participants will:\n• Take part in a **hands-on workshop** on **Vibe Coding** and **code agents**\n• Work in teams to tackle a **practical AI / Data Science challenge**\n• Use **GenAI tools** to speed up development and explore creative approaches\n• **Pitch** their final solution in a short presentation\n• **Vote** for the winning project 🎉\n\n**🏆 The winning team will receive tickets to Data Makers Fest!**\n\n**👥 Who is this event for?**\n\nYou don’t need prior experience with GenAI tools or vibe coding. Curiosity and a willingness to experiment are the most important requirements 💪\n\nYou can:\n• Sign up with friends in **teams of 2–3 people**, or\n• **Join on your own**, and we’ll help you form a team on the day.\n\n**🗓️ Agenda**\n• 10:45 — Check-in & welcome\n• 11:00 — Vibe Coding Workshop\n• 12:30 — Lunch & networking + team formation\n• 13:45 — Challenge and tools presentation\n• 14:00 — Team development session\n• 17:00 — Project pitches\n• 18:00 — Public vote & winner announcement\n\n**📌 Spots are limited** — secure your place, join us for this Vibe Coding Party, and get a chance to win tickets to one of the coolest AI conferences around!",
