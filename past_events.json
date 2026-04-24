@@ -11,7 +11,7 @@
     "event_type": "PHYSICAL",
     "is_online": false,
     "rsvp_state": "PAST",
-    "attendees_count": 32,
+    "attendees_count": 31,
     "max_tickets": 0,
     "venue": {
       "id": "27773897",
