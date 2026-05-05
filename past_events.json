@@ -1,5 +1,39 @@
 [
   {
+    "id": "314347096",
+    "title": "🥟 Rally Rissol: A Taste of Porto with DSPT",
+    "description": "Data Science Portugal (DSPT) is teaming up with Data Makers Fest for a special gathering on the first evening of the conference — and this time, we’re taking it to the streets.\n\nJoin us for a food crawl through Porto: a relaxed, social walk where we’ll explore some of the city’s most emblematic cafés and restaurants while tasting one of Portugal’s most beloved classics — the *rissol*.\n\nIf you want to meet fellow data people while discovering Porto off the beaten path, this is the activity for you! Come ready to share conversations, ideas and discover the best *rissol* in Porto.\n\nWe’ll move as a group through a route of local spots, making short stops to try different variations. The tour will end at **Hard Rock Cafe**, right on time for the Data Makers Fest Happy Hour (you must have a conference ticket to attend this one).\n\n**👟 Practical notes:**\n\n* Expect light walking between stops (comfortable shoes recommended!)\n* Bring some cash/card for food at each stop\n* Come hungry — and curious!\n\nWhether you're visiting Porto for the first time or you think you already know it well, this is a chance to experience the city in the best way we know: through **food and community**.",
+    "event_url": "https://www.meetup.com/datascienceportugal/events/314347096/",
+    "datetime": "2026-05-04T18:00:00+01:00",
+    "end_time": "2026-05-04T19:30:00+01:00",
+    "created_time": "2026-04-18T05:56:21-04:00",
+    "status": "PAST",
+    "event_type": "PHYSICAL",
+    "is_online": false,
+    "rsvp_state": "PAST",
+    "attendees_count": 30,
+    "max_tickets": 0,
+    "venue": {
+      "id": "14933532",
+      "name": "Mercado do Bolhão",
+      "address": "Rua Fernandes Tomás, 4000-214",
+      "city": "Porto",
+      "state": "",
+      "country": "pt"
+    },
+    "creator": {
+      "id": "371612853",
+      "name": "Inês Oliveira e Silva"
+    },
+    "hosts": [
+      "371612853",
+      "457993468",
+      "98768582",
+      "420462459"
+    ],
+    "featured_photo_url": "https://secure.meetupstatic.com/photos/event/b/0/b/7/highres_533865239.jpeg"
+  },
+  {
     "id": "314261868",
     "title": "DSPT x Devoteam: AI Agents on the Run",
     "description": "🌸 **Lisbon**, let's talk AI Agents! 🤖✨ **DSPT - Data Science Portugal** is thrilled to kick off the **Primavera AI Fest**, an exclusive four-part series bringing together the brightest minds in the local AI tech community.\n\n***Check out the full Primavera AI Fest agenda [here](https://www.linkedin.com/feed/update/urn:li:activity:7449770982128381955/)***\n\nFor our very first event, we are teaming up with **Devoteam**, who will be hosting us at their Lisbon offices. Expect an evening packed with deep-dive technical sessions featuring experts from **Devoteam** and **QuintoAndar**, followed by high-level networking, food, and drinks.\nWhether you're building GenAI pipelines or figuring out how to push agents to production, this is where you need to be.\n\n***\n\n### 🎙️ The Sessions\n\n**Talk 1: Preserving History with AI: A RAG Journey Through 100+ Years of Football Archives** *By Rita Ribeiro (Devoteam)* How do you make a century of history instantly searchable? Rita will dive into a real-world Retrieval-Augmented Generation (RAG) project developed by Devoteam for a major football club museum. Discover how they tackled the challenge of analyzing and surfacing insights from over 100 years of historical archives.\n\n**Talk 2: Evaluating AI Agents at QuintoAndar** *By Lucas Cardoso & Rodolfo Abreu (QuintoAndar)* Still relying on \"vibe checks\" to see if your AI agents actually work? Stop guessing and start measuring. Dive into QuintoAndar's framework for evaluating AI agents—covering everything from golden datasets and the role of evals from experimentation to production. Learn how to turn GenAI unpredictability into reliable, production-ready performance.\n\n***\n\n### 🗓️ The Agenda\n\n* **17:30** — 🚪 Reception & Check-in\n* **18:00** — 👋 Welcoming by DSPT\n* **18:10** — ⚽ *Session 1:* Preserving History with AI by Rita Ribeiro, Devoteam\n* **18:30** — 📈 *Session 2:* Evaluating AI Agent by Lucas Cardoso & Rodolfo Abreu, QuintoAndar\n* **18:50** — 🎤 Q&A\n* **19:15** — 🍻 Networking, Drinks & Bites\n\n***\n\n### 📍 The Details\n\n* **When:** April 29 at 5:30 PM\n* **Where:** Devoteam Lisbon Office\n\nSpace is limited, so secure your spot, bring your curiosity, and let’s talk AI. See you there! 👋",
@@ -11,7 +45,7 @@
     "event_type": "PHYSICAL",
     "is_online": false,
     "rsvp_state": "PAST",
-    "attendees_count": 65,
+    "attendees_count": 63,
     "max_tickets": 80,
     "venue": {
       "id": "26400544",
@@ -42,7 +76,7 @@
     "event_type": "PHYSICAL",
     "is_online": false,
     "rsvp_state": "PAST",
-    "attendees_count": 30,
+    "attendees_count": 29,
     "max_tickets": 0,
     "venue": {
       "id": "27773897",
