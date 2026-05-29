@@ -1,5 +1,40 @@
 [
   {
+    "id": "314770358",
+    "title": "DSPT x ISS Tech Portugal x Critical TechWorks: Bias and Fairness in AI",
+    "description": "Porto, we are back! 🤖✨ DSPT - Data Science Portugal is excited to bring the community together for another evening of great discussions, learning, and networking.\n\nFor this event, we are teaming up with **ISS Tech Portugal**, who will be hosting us at their offices in the heart of Porto.\n\nAs AI models become more deeply integrated into our daily lives and decision-making processes, a critical question arises: *Are our algorithms playing fair?* Join us for a deep dive into how we can identify, understand, and mitigate bias in machine learning models to build more equitable AI systems.\n\nWhether you're building GenAI products, working with predictive models, or simply curious about AI ethics, this meetup is for you.\n\n**🎙️ Speakers**\n**Lia Meireles**, **Marta Monteiro** & **Susana Neves** from **Critical TechWorks** present us \"*Fairness in AI: Are we responsible?*\" — exploring real-world AI failures, how bias creeps into models at scale, what the EU AI Act means for people building this stuff, and what we can all do to build systems we can actually trust.\n\n**🗓️ The Agenda**\n18:00 — 🚪 Get together & Check-in\n18:10 — 👋 Welcome by DSPT\n18:20 — 🧠 Talk: Fairness in AI: Are we responsible?\n18:40 — 🎤 Q&A\n19:00 — 🍻 Networking, Drinks & Bites\n\n**When**: Thursday, May 28 at 6:00 PM\n**Where**: ISS Tech Portugal - R. Santa Catarina 1232, Porto\n\nSpace is limited, so grab your spot, bring your curiosity, and let’s talk about the future of responsible AI. See you there! 👋",
+    "event_url": "https://www.meetup.com/datascienceportugal/events/314770358/",
+    "datetime": "2026-05-28T18:00:00+01:00",
+    "end_time": "2026-05-28T20:00:00+01:00",
+    "created_time": "2026-05-13T12:35:39-04:00",
+    "status": "PAST",
+    "event_type": "PHYSICAL",
+    "is_online": false,
+    "rsvp_state": "PAST",
+    "attendees_count": 21,
+    "max_tickets": 0,
+    "venue": {
+      "id": "27881207",
+      "name": "ISS",
+      "address": "Rua de Santa Catarina, 1232",
+      "city": "Porto",
+      "state": "",
+      "country": "pt"
+    },
+    "creator": {
+      "id": "420462459",
+      "name": "Márcio Duarte"
+    },
+    "hosts": [
+      "274692336",
+      "371612853",
+      "398297164",
+      "420462459",
+      "457993468"
+    ],
+    "featured_photo_url": "https://secure.meetupstatic.com/photos/event/a/8/7/5/highres_534343125.jpeg"
+  },
+  {
     "id": "314276565",
     "title": "DSPT x Indie Campers: Primavera AI Fest",
     "description": "Lisbon, the AI momentum is building! 🤖✨ DSPT - Data Science Portugal is excited to bring you the next installment of our **Primavera AI Fest** series.\n\n***Check out the full Primavera AI Fest agenda [here](https://www.linkedin.com/feed/update/urn:li:activity:7449770982128381955/)***\n\nFor this event, we are hitting the road and teaming up with **Indie Campers**, who will be hosting us at their Global HQ. Expect another fantastic evening of deep-dive technical sessions covering two completely different but equally fascinating sides of data science and AI: complex logistics optimization and building clinical AI in a highly regulated space.\nWhether you're dealing with massive operational challenges or navigating the startup hustle in healthcare tech, this meetup is for you.\n\n***\n\n### 🎙️ The Sessions\n\n**Talk 1: From Booking to Road: Combinatorial Optimization at Indie Campers** *By Nicola Bombini (Indie Campers)* How do you efficiently manage a massive fleet of vehicles constantly on the move across different countries? Nicola will take us under the hood of Indie Campers' operations, showcasing how they use combinatorial optimization to seamlessly connect complex booking systems with real-world road logistics.\n\n**Talk 2: Building Clinical AI in a Regulated Market, with Two People** *By Francisco Ribeiro e Silva (Mena AI)* Building AI is hard. Building it for healthcare is harder. Doing it with just a two-person team? That's a true startup journey. Francisco will share the raw, behind-the-scenes story of his Portuguese startup, which is developing clinical AI to empower therapists and psychiatrists while navigating the strict compliance of a heavily regulated market.\n\n***\n\n### 🗓️ The Agenda\n\n* **17:30** — 🚪 Reception & Check-in\n* **18:00** — 👋 Welcoming by DSPT\n* **18:10** — 🚐 *Session 1:* Combinatorial Optimization at Indie Campers (Nicola Bombini)\n* **18:30** — 🧠 *Session 2:* Building Clinical AI in a Regulated Market (Francisco Ribeiro e Silva)\n* **18:50** — 🎤 Q&A\n* **19:15** — 🍻 Networking, Drinks & Bites\n\n***\n\n### 📍 The Details\n\n* **When:** April 13 at 5:30 PM\n* **Where:** Indie Campers Global HQ\n\nSpace is limited, so grab your spot, bring your curiosity, and let’s keep the Primavera AI Fest rolling. See you there! 👋",

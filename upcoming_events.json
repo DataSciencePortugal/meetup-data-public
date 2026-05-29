@@ -42,13 +42,13 @@
     "event_type": "PHYSICAL",
     "is_online": false,
     "rsvp_state": "JOIN_OPEN",
-    "attendees_count": 31,
+    "attendees_count": 32,
     "max_tickets": 100,
     "venue": {
-      "id": "28000134",
-      "name": "Lisbon (TBA)",
-      "address": "1100-148 Lisbon, Portugal",
-      "city": "Lisbon",
+      "id": "28256995",
+      "name": "Cloudflare",
+      "address": "Av. da Índia 8 10 1300-299",
+      "city": "Lisboa",
       "state": "",
       "country": "pt"
     },
@@ -73,7 +73,7 @@
     "event_type": "PHYSICAL",
     "is_online": false,
     "rsvp_state": "JOIN_OPEN",
-    "attendees_count": 13,
+    "attendees_count": 16,
     "max_tickets": 25,
     "venue": null,
     "creator": {
@@ -99,8 +99,8 @@
     "event_type": "PHYSICAL",
     "is_online": false,
     "rsvp_state": "JOIN_OPEN",
-    "attendees_count": 70,
-    "max_tickets": 85,
+    "attendees_count": 78,
+    "max_tickets": 100,
     "venue": {
       "id": "28230621",
       "name": "DareData",
@@ -121,40 +121,5 @@
       "265374026"
     ],
     "featured_photo_url": "https://secure.meetupstatic.com/photos/event/d/6/5/f/highres_534354879.jpeg"
-  },
-  {
-    "id": "314770358",
-    "title": "DSPT x ISS Tech Portugal x Critical TechWorks: Bias and Fairness in AI",
-    "description": "Porto, we are back! 🤖✨ DSPT - Data Science Portugal is excited to bring the community together for another evening of great discussions, learning, and networking.\n\nFor this event, we are teaming up with **ISS Tech Portugal**, who will be hosting us at their offices in the heart of Porto.\n\nAs AI models become more deeply integrated into our daily lives and decision-making processes, a critical question arises: *Are our algorithms playing fair?* Join us for a deep dive into how we can identify, understand, and mitigate bias in machine learning models to build more equitable AI systems.\n\nWhether you're building GenAI products, working with predictive models, or simply curious about AI ethics, this meetup is for you.\n\n**🎙️ Speakers**\n**Lia Meireles**, **Marta Monteiro** & **Susana Neves** from **Critical TechWorks** present us \"*Fairness in AI: Are we responsible?*\" — exploring real-world AI failures, how bias creeps into models at scale, what the EU AI Act means for people building this stuff, and what we can all do to build systems we can actually trust.\n\n**🗓️ The Agenda**\n18:00 — 🚪 Get together & Check-in\n18:10 — 👋 Welcome by DSPT\n18:20 — 🧠 Talk: Fairness in AI: Are we responsible?\n18:40 — 🎤 Q&A\n19:00 — 🍻 Networking, Drinks & Bites\n\n**When**: Thursday, May 28 at 6:00 PM\n**Where**: ISS Tech Portugal - R. Santa Catarina 1232, Porto\n\nSpace is limited, so grab your spot, bring your curiosity, and let’s talk about the future of responsible AI. See you there! 👋",
-    "event_url": "https://www.meetup.com/datascienceportugal/events/314770358/",
-    "datetime": "2026-05-28T18:00:00+01:00",
-    "end_time": "2026-05-28T20:00:00+01:00",
-    "created_time": "2026-05-13T12:35:39-04:00",
-    "status": "ACTIVE",
-    "event_type": "PHYSICAL",
-    "is_online": false,
-    "rsvp_state": "JOIN_OPEN",
-    "attendees_count": 53,
-    "max_tickets": 0,
-    "venue": {
-      "id": "27881207",
-      "name": "ISS",
-      "address": "Rua de Santa Catarina, 1232",
-      "city": "Porto",
-      "state": "",
-      "country": "pt"
-    },
-    "creator": {
-      "id": "420462459",
-      "name": "Márcio Duarte"
-    },
-    "hosts": [
-      "274692336",
-      "371612853",
-      "398297164",
-      "420462459",
-      "457993468"
-    ],
-    "featured_photo_url": "https://secure.meetupstatic.com/photos/event/a/8/7/5/highres_534343125.jpeg"
   }
 ]
