@@ -1,5 +1,66 @@
 [
   {
+    "id": "314965050",
+    "title": "AI on Tap #4: Porto",
+    "description": "Porto, we’re back for another **AI on Tap** 🍻\n\nThis is our casual get-together for the AI and data community. We pick a place, grab a drink, and let the conversations happen.\n\nWhether you’re working with GenAI, machine learning, data science, product, research, or you’re just curious about what people are building and thinking about lately, come by and join us.\n\nThis time we’ll meet at **Restaurante Sidraria Celta Endovélico**, a cozy spot in Porto where everyone can order whatever they feel like.\n\n**What to expect**\n\n* Drinks after work\n* Conversations about AI, data, tech, projects, jobs, ideas, or whatever comes up\n* A chance to meet people from the community\n* A relaxed evening with good people\n\n**When**\n📅 **Tuesday, June 2**\n🕕 **18:00 to 20:00**\n\n**Where**\n📍 **Restaurante Sidraria Celta Endovélico**\nRua dos Mártires da Liberdade 29, 4050-360 Porto\n\nSpots are limited, so RSVP if you’re joining.\nSee you there! 👋",
+    "event_url": "https://www.meetup.com/datascienceportugal/events/314965050/",
+    "datetime": "2026-06-02T18:00:00+01:00",
+    "end_time": "2026-06-02T20:00:00+01:00",
+    "created_time": "2026-05-26T14:36:23-04:00",
+    "status": "PAST",
+    "event_type": "PHYSICAL",
+    "is_online": false,
+    "rsvp_state": "PAST",
+    "attendees_count": 8,
+    "max_tickets": 25,
+    "venue": null,
+    "creator": {
+      "id": "420462459",
+      "name": "Márcio Duarte"
+    },
+    "hosts": [
+      "274692336",
+      "420462459",
+      "474100643"
+    ],
+    "featured_photo_url": "https://secure.meetupstatic.com/photos/event/9/c/0/highres_534422496.jpeg"
+  },
+  {
+    "id": "314276559",
+    "title": "DSPT x DareData: The hard part of building AI",
+    "description": "Lisbon, it’s time to move out of localhost! 🤖✨ DSPT is back with the third event of our **Primavera AI Fest** series.\n\n​We are teaming up with **DareData**, who will be hosting us for an afternoon dedicated to the gritty reality of putting AI into production. Expect unfiltered, real-world lessons from AI leaders and experts at **DareData** and **QuintoAndar** on what it actually takes to scale AI beyond the demo stage.\n\n​If you are tired of theoretical use cases and want to hear the hard truths about evals, RAG breakdowns, and scaling agentic chatbots, this is exactly where you need to be.\n\n​🎙️ The Sessions\n\n​**Talk 1: Unlocalhost me: The hard part of building AI products** *By Luís Alves (AI Engineer, DareData) & Artur Simões (Data Engineer, DareData)* Building an AI demo is easy. Shipping a real product is where it gets messy. Artur and Luís will share the hard problems they faced taking GenOS to production: why RAG breaks down when documents look nearly identical, how to evaluate a model when \"good\" is a moving target, and the challenges of pioneering an FDE setup at product scale. Expect honest lessons from productionizing AI, and what they wish they'd known before leaving localhost.\n\n​**Talk 2: Shipping AI at Scale Without Losing Your Mind** *By Tania Torovets (Senior Head of AI, QuintoAndar)* Real lessons from building production AI systems at scale in 2024–2026. From the first copilot to eight agentic chatbots in production. Tania covers what worked, what didn’t, and what her team had to unlearn. Discover why the bottleneck is rarely the model itself, but rather evals, observability, and how your organisation thinks about probabilistic systems. Learn four core beliefs about what it actually takes to ship AI beyond the demo stage.\n\n​🗓️ The Agenda\n\n* ​**17:30** — 🚪 Reception & Check-in\n* ​**18:00** — 👋 Welcoming by DSPT\n* ​**18:10** — 🛠️ *Session 1:* Unlocalhost me: The hard part of building AI products (Luís Alves & Artur Simões, DareData)\n* ​**18:30** — 🚀 *Session 2:* Shipping AI at Scale — Without Losing Your Mind (Tania Torovets, QuintoAndar)\n* ​**18:50** — 🎤 Roundtable\n* ​**19:15** — 🍻 Networking, Drinks & Bites\n\n​📍 The Details\n\n* ​**When:** June 2nd at 5:30 PM\n* ​**Where:** DareData Office\n\n​Space is limited! Secure your spot, and let’s talk production AI. See you there! 👋",
+    "event_url": "https://www.meetup.com/datascienceportugal/events/314276559/",
+    "datetime": "2026-06-02T17:30:00+01:00",
+    "end_time": "2026-06-02T20:00:00+01:00",
+    "created_time": "2026-04-14T06:36:31-04:00",
+    "status": "PAST",
+    "event_type": "PHYSICAL",
+    "is_online": false,
+    "rsvp_state": "PAST",
+    "attendees_count": 91,
+    "max_tickets": 90,
+    "venue": {
+      "id": "28230621",
+      "name": "DareData",
+      "address": "Av. da Igreja 42 3 Esquerdo, 1700-239",
+      "city": "Lisboa",
+      "state": "",
+      "country": "pt"
+    },
+    "creator": {
+      "id": "371689865",
+      "name": "Claudio Lemos"
+    },
+    "hosts": [
+      "371689865",
+      "476706757",
+      "312439954",
+      "470041875",
+      "265374026"
+    ],
+    "featured_photo_url": "https://secure.meetupstatic.com/photos/event/d/6/5/f/highres_534354879.jpeg"
+  },
+  {
     "id": "314770358",
     "title": "DSPT x ISS Tech Portugal x Critical TechWorks: Bias and Fairness in AI",
     "description": "Porto, we are back! 🤖✨ DSPT - Data Science Portugal is excited to bring the community together for another evening of great discussions, learning, and networking.\n\nFor this event, we are teaming up with **ISS Tech Portugal**, who will be hosting us at their offices in the heart of Porto.\n\nAs AI models become more deeply integrated into our daily lives and decision-making processes, a critical question arises: *Are our algorithms playing fair?* Join us for a deep dive into how we can identify, understand, and mitigate bias in machine learning models to build more equitable AI systems.\n\nWhether you're building GenAI products, working with predictive models, or simply curious about AI ethics, this meetup is for you.\n\n**🎙️ Speakers**\n**Lia Meireles**, **Marta Monteiro** & **Susana Neves** from **Critical TechWorks** present us \"*Fairness in AI: Are we responsible?*\" — exploring real-world AI failures, how bias creeps into models at scale, what the EU AI Act means for people building this stuff, and what we can all do to build systems we can actually trust.\n\n**🗓️ The Agenda**\n18:00 — 🚪 Get together & Check-in\n18:10 — 👋 Welcome by DSPT\n18:20 — 🧠 Talk: Fairness in AI: Are we responsible?\n18:40 — 🎤 Q&A\n19:00 — 🍻 Networking, Drinks & Bites\n\n**When**: Thursday, May 28 at 6:00 PM\n**Where**: ISS Tech Portugal - R. Santa Catarina 1232, Porto\n\nSpace is limited, so grab your spot, bring your curiosity, and let’s talk about the future of responsible AI. See you there! 👋",
@@ -11,7 +72,7 @@
     "event_type": "PHYSICAL",
     "is_online": false,
     "rsvp_state": "PAST",
-    "attendees_count": 21,
+    "attendees_count": 20,
     "max_tickets": 0,
     "venue": {
       "id": "27881207",
