@@ -45,7 +45,7 @@
     "event_type": "PHYSICAL",
     "is_online": false,
     "rsvp_state": "PAST",
-    "attendees_count": 13,
+    "attendees_count": 12,
     "max_tickets": 20,
     "venue": {
       "id": "28269381",
@@ -2129,7 +2129,7 @@
     "event_type": "PHYSICAL",
     "is_online": false,
     "rsvp_state": "PAST",
-    "attendees_count": 33,
+    "attendees_count": 32,
     "max_tickets": 0,
     "venue": {
       "id": "26716751",
@@ -2164,7 +2164,7 @@
     "event_type": "PHYSICAL",
     "is_online": false,
     "rsvp_state": "PAST",
-    "attendees_count": 49,
+    "attendees_count": 45,
     "max_tickets": 80,
     "venue": {
       "id": "27528554",
@@ -2263,7 +2263,7 @@
     "event_type": "PHYSICAL",
     "is_online": false,
     "rsvp_state": "PAST",
-    "attendees_count": 36,
+    "attendees_count": 35,
     "max_tickets": 0,
     "venue": {
       "id": "26228977",
@@ -2733,7 +2733,7 @@
     "event_type": "ONLINE",
     "is_online": true,
     "rsvp_state": "PAST",
-    "attendees_count": 123,
+    "attendees_count": 122,
     "max_tickets": 0,
     "venue": {
       "id": "26906060",
@@ -5021,7 +5021,7 @@
     "event_type": "PHYSICAL",
     "is_online": false,
     "rsvp_state": "PAST",
-    "attendees_count": 55,
+    "attendees_count": 54,
     "max_tickets": 70,
     "venue": {
       "id": "24772386",
