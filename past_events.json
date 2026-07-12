@@ -1,5 +1,37 @@
 [
   {
+    "id": "315512120",
+    "title": "Women in AI & Data #2 - Breakfast Edition",
+    "description": "After the great conversations at our first **Women in AI & Data meetup**, we're bringing the community together once again, this time over **breakfast**!\n\nJoin us for a relaxed morning where women passionate about AI, Data Science, and related fields can meet, connect, and exchange ideas in an informal setting.\n\nWhether you're a student, researcher, practitioner, founder, or simply curious about AI and data, this breakfast meetup is a space to share experiences, discuss emerging trends, ask questions, and get to know other women in the community.\n\nCome by, grab a coffee, and spend your morning with women who enjoy talking about AI as much as you do. We look forward to seeing familiar faces and welcoming new ones!\n\n[This is a women only event]",
+    "event_url": "https://www.meetup.com/datascienceportugal/events/315512120/",
+    "datetime": "2026-07-11T10:00:00+01:00",
+    "end_time": "2026-07-11T12:00:00+01:00",
+    "created_time": "2026-07-02T04:17:26-04:00",
+    "status": "PAST",
+    "event_type": "PHYSICAL",
+    "is_online": false,
+    "rsvp_state": "PAST",
+    "attendees_count": 13,
+    "max_tickets": 15,
+    "venue": {
+      "id": "28273826",
+      "name": "NAVE • Food & Drinks",
+      "address": "Rua de Santos Pousada 140, 4000-478 Porto",
+      "city": "Porto",
+      "state": "",
+      "country": "pt"
+    },
+    "creator": {
+      "id": "371612853",
+      "name": "Inês Oliveira e Silva"
+    },
+    "hosts": [
+      "371612853",
+      "479482167"
+    ],
+    "featured_photo_url": "https://secure.meetupstatic.com/photos/event/1/5/7/7/highres_535025495.jpeg"
+  },
+  {
     "id": "315382779",
     "title": "AI Founders Roundtable + AMA @ Católica Porto Business School",
     "description": "Porto, we're back! 🤖✨\n\nData Science Portugal is excited to bring the community together for another evening of learning, discussion, and networking.\n\nThis time, we're partnering with Católica Porto Business School for a special event that combines a day of coworking with an AI Founders Roundtable.\n\nEveryone talks about AI. But what does it actually take to build an AI company? Join us for an open conversation with founders who are actively building, scaling, and navigating the realities of the AI ecosystem. From identifying opportunities and finding product market fit to overcoming challenges and adapting to a rapidly evolving landscape, we'll explore what entrepreneurship in AI really looks like.\n\nWhether you're a founder, builder, student, investor, or simply curious about the future of AI, this event is for you.\n\n🎙️ AI Founders Roundtable\n**Carlos Ribeiro:** Founder @ Coalex.ai\n**Jorge Teixeira:** Co-Founder @ BrightGroup\n**Luís Valente:** CEO & Co-Founder @ iLoF\n\nTogether, they'll share their journeys, lessons learned, challenges faced, and perspectives on the opportunities that lie ahead for AI startups and innovation in Portugal and beyond.\n\n📅 When: Monday, June 29, 18:00\n📍 Where: Católica Porto Business School, Porto, Sala EP002 - Edifício do Paraíso. Mapa do campus [aqui](https://cdn.prod.website-files.com/666c640c099a2d23937e85b3/6699a4333ab6771713e85ee1_cpbs_mapa.pdf \"https://cdn.prod.website-files.com/666c640c099a2d23937e85b3/6699a4333ab6771713e85ee1_cpbs_mapa.pdf\").\n\nBring your questions, and join us for an evening of honest conversations and valuable insights from founders building at the forefront of AI.\n\nSee you there! 👋",
