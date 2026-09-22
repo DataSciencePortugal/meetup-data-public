@@ -1,5 +1,37 @@
 [
   {
+    "id": "316649983",
+    "title": "DSPT 10 Years: Braga Meetup @ Subvisual",
+    "description": "DSPT turns 10 this year, and we’re celebrating in **Braga** too 🏛️\n\nJoin us at Subvisual for an evening with Braga’s AI and data community.\n\nWe’ll be joined by:\n🎤 Margarida Lobato Costa \\| Cegid\n🎤 Pedro Costa \\| Condukt\n\n📅 September 30\n🕕 18:00–20:30\n📍 Subvisual — Pólo de Negócios de Braga\nAvenida Dom João II, 404, 4.º andar\n4715-275 Braga\n\nSave your spot and come celebrate 10 years of DSPT with us!\nSee you in Braga!",
+    "event_url": "https://www.meetup.com/datascienceportugal/events/316649983/",
+    "datetime": "2026-09-30T18:00:00+01:00",
+    "end_time": "2026-09-30T20:00:00+01:00",
+    "created_time": "2026-09-21T10:11:24-04:00",
+    "status": "ACTIVE",
+    "event_type": "PHYSICAL",
+    "is_online": false,
+    "rsvp_state": "JOIN_OPEN",
+    "attendees_count": 4,
+    "max_tickets": 0,
+    "venue": {
+      "id": "28340484",
+      "name": "Subvisual",
+      "address": "Polo de Negócios de Braga, Av. Dom João II 404 4º andar, Sala 42, 4715-275 Braga, Portugal",
+      "city": "Braga",
+      "state": "",
+      "country": "pt"
+    },
+    "creator": {
+      "id": "420462459",
+      "name": "Márcio Duarte"
+    },
+    "hosts": [
+      "274749320",
+      "478571187"
+    ],
+    "featured_photo_url": "https://secure.meetupstatic.com/photos/event/7/9/5/d/highres_536251069.jpeg"
+  },
+  {
     "id": "316384124",
     "title": "Claude for the Enterprise: Beyond the Hype, Into Production?",
     "description": "We're back from summer, and DSPT is coming back swinging, this is the **first event in our 10-year anniversary series**, and we're kicking it off with an enterprise AI heavyweight.\n\nLisbon, let's talk about **Claude in production**\nEveryone's experimented with prompts. Far fewer teams have shipped AI that survives contact with production-critical systems, the messy reality of legacy infrastructure, compliance, latency, and **\"what happens when it's wrong.\"**\n\n**DSPT × [Indicium AI](https://indicium.ai/)** are teaming up for **\"Claude for the Enterprise: Beyond the Hype, Into Production.\"**\n\n[Indicium AI](https://indicium.ai/), one of Anthropic's key partners deploying AI systems into large enterprises across Financial Services, Energy, and Healthcare, is opening its Lisbon offices for this one. We'll hear how Claude actually gets from prompt to production inside real enterprise environments, and get an unfiltered take on what it takes to keep AI slop out of systems that can't afford to break.\n\nExpect real war stories, hard-won lessons, and high-level networking with Lisbon's top data scientists, ML engineers, and AI builders — with snacks and drinks to keep the conversation going.\n\n📍 In-person: **Indicium AI Offices Lisbon** — Praça Marquês de Pombal 2, 1250-161 Lisbon\n\n🗣️ Speakers\n\n* **Alex Juarez** – Indicium AI — *\"From Prompt to Production: Using Claude in the Enterprise\"*\n* **Diogo Gonçalves** – TensorOps — *\"The Game Changed. Did Your Team? - No AI Slop on Production-Critical Systems\"*\n\n🗓️ Agenda\n17:30 – Reception\n18:00 – DSPT Kickoff & 10-year celebration toast\n18:05 – From Prompt to Production: Using Claude in the Enterprise (Alex Juarez)\n18:40 – The Game Changed. Did Your Team? (Diogo Gonçalves)\n19:20 – Networking with snacks and drinks\n\n**Here's to 10 years of DSPT**\n\n**See you soon 👋**",
@@ -11,7 +43,7 @@
     "event_type": "PHYSICAL",
     "is_online": false,
     "rsvp_state": "JOIN_OPEN",
-    "attendees_count": 21,
+    "attendees_count": 60,
     "max_tickets": 0,
     "venue": {
       "id": "28309542",
@@ -26,7 +58,10 @@
       "name": "Bruno Alho"
     },
     "hosts": [
-      "476706757"
+      "476706757",
+      "312439954",
+      "371689865",
+      "470041875"
     ],
     "featured_photo_url": "https://secure.meetupstatic.com/photos/event/a/1/8/2/highres_535961346.jpeg"
   }
