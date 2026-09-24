@@ -1,5 +1,39 @@
 [
   {
+    "id": "316384124",
+    "title": "Claude for the Enterprise: Beyond the Hype, Into Production?",
+    "description": "We're back from summer, and DSPT is coming back swinging, this is the **first event in our 10-year anniversary series**, and we're kicking it off with an enterprise AI heavyweight.\n\nLisbon, let's talk about **Claude in production**\nEveryone's experimented with prompts. Far fewer teams have shipped AI that survives contact with production-critical systems, the messy reality of legacy infrastructure, compliance, latency, and **\"what happens when it's wrong.\"**\n\n**DSPT × [Indicium AI](https://indicium.ai/)** are teaming up for **\"Claude for the Enterprise: Beyond the Hype, Into Production.\"**\n\n[Indicium AI](https://indicium.ai/), one of Anthropic's key partners deploying AI systems into large enterprises across Financial Services, Energy, and Healthcare, is opening its Lisbon offices for this one. We'll hear how Claude actually gets from prompt to production inside real enterprise environments, and get an unfiltered take on what it takes to keep AI slop out of systems that can't afford to break.\n\nExpect real war stories, hard-won lessons, and high-level networking with Lisbon's top data scientists, ML engineers, and AI builders — with snacks and drinks to keep the conversation going.\n\n📍 In-person: **Indicium AI Offices Lisbon** — Praça Marquês de Pombal 2, 1250-161 Lisbon\n\n🗣️ Speakers\n\n* **Alex Juarez** – Indicium AI — *\"From Prompt to Production: Using Claude in the Enterprise\"*\n* **Diogo Gonçalves** – TensorOps — *\"The Game Changed. Did Your Team? - No AI Slop on Production-Critical Systems\"*\n\n🗓️ Agenda\n17:30 – Reception\n18:00 – DSPT Kickoff & 10-year celebration toast\n18:05 – From Prompt to Production: Using Claude in the Enterprise (Alex Juarez)\n18:40 – The Game Changed. Did Your Team? (Diogo Gonçalves)\n19:20 – Networking with snacks and drinks\n\n**Here's to 10 years of DSPT**\n\n**See you soon 👋**",
+    "event_url": "https://www.meetup.com/datascienceportugal/events/316384124/",
+    "datetime": "2026-09-23T17:30:00+01:00",
+    "end_time": "2026-09-23T20:00:00+01:00",
+    "created_time": "2026-09-02T09:06:13-04:00",
+    "status": "PAST",
+    "event_type": "PHYSICAL",
+    "is_online": false,
+    "rsvp_state": "PAST",
+    "attendees_count": 64,
+    "max_tickets": 0,
+    "venue": {
+      "id": "28309542",
+      "name": "Indicium Al Offices",
+      "address": "Praça Marquês de Pombal 2, 1250-161",
+      "city": "Lisbon",
+      "state": "",
+      "country": "pt"
+    },
+    "creator": {
+      "id": "476706757",
+      "name": "Bruno Alho"
+    },
+    "hosts": [
+      "476706757",
+      "312439954",
+      "371689865",
+      "470041875"
+    ],
+    "featured_photo_url": "https://secure.meetupstatic.com/photos/event/a/1/8/2/highres_535961346.jpeg"
+  },
+  {
     "id": "315585206",
     "title": "It's Not About AI. It's About Us.",
     "description": "**DSPT Sunset — \"It's Not About AI. It's About Us.\" *— An Intimate Cartography of Coexisting with Intelligent Systems***\n\nJoin us for an evening Sunset at Critical TechWorks: a thought-provoking performance and talk followed by relaxed networking over drinks and bites. Open to everyone, students, hobbyists, professionals, and executives alike.\n\nThis is our last event before the summer break, we'll be back in September with more! 🌞\n\n**📅 When:** July 16, 2026, 18h00–20h30\n**📍 Where:** Critical TechWorks, R. Dr. António Luís Gomes 10, Porto\n\n**Agenda:**\n\n* 18h00–18h10 — Get together\n* 18h10–18h20 — Welcome by DSPT\n* 18h20–19h15 — Performance/Talk + Discussion\n* 19h15–20h00 — Networking and Bites\n\n**The Talk: *\"It's Not About AI. It's About Us.\" — An Intimate Cartography of Coexisting with Intelligent Systems***\n\nMaybe AI isn't the real question of our time. Maybe we are: the way we project desire, fear, authority, creativity, and intimacy onto systems that don't live, don't die, and don't respond from a body.\n\nThis performative talk starts from a simple provocation: what if AI isn't here to replace the human, but to expose it? What if, faced with the machine, our dependencies, fantasies, fragilities, and ways of relating become more visible?\n\nThe audience is invited to help build a collective map of the emotions, contradictions, and fictions that surface when we begin to think, create, and decide alongside non-human entities. This isn't about understanding algorithms, or about celebrating or condemning technology. It's about observing what AI reorganizes in us: authorship, presence, trust, the desire for control, loneliness, imagination, and the very notion of intelligence.\n\nBy the end, the question may not be whether AI thinks. It may be something more uncomfortable: what kind of humans are we willing to become when we agree to think alongside \"it\"?\n\n**The Speakers**\n\n**António Baía Reis** — Artist, researcher, and university professor working across immersive media, performance, sound, image, and experimental art. Marie Skłodowska-Curie Postdoctoral Fellow and Assistant Professor at the University of Salamanca, with a PhD in Digital Media from the University of Porto developed in collaboration with Stanford. His work has been presented at Somerset House, Venice Immersive, and the Cannes XR Immersive Competition. More at antoniobaiareis.com\n\n**Emília Moreira** — Psychologist and associate researcher at the Faculty of Medicine of the University of Porto (FMUP) and RISE-Health, with a PhD in Geriatrics and Gerontology. Her research spans cardiocerebrovascular disease, mental health, and digital health. She combines her academic career with clinical practice at Hospital Lusíadas Porto and Clínica FMUP.\n\nAs always with DSPT, this event is free and open to everyone curious about data, AI, and the questions they raise about us. See you there, and see you again in September! 👋",
