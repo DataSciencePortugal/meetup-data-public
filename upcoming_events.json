@@ -1,12 +1,12 @@
 [
   {
-    "id": "316649983",
-    "title": "DSPT 10 Years: Braga Meetup @ Subvisual",
-    "description": "DSPT turns 10 this year, and we’re celebrating in **Braga** too 🏛️\n\nJoin us at Subvisual for an evening with Braga’s AI and data community.\n\nWe’ll be joined by:\n🎤 Margarida Lobato Costa \\| Cegid\n🎤 Pedro Costa \\| Condukt\n\n📅 September 30\n🕕 18:00–20:30\n📍 Subvisual — Pólo de Negócios de Braga\nAvenida Dom João II, 404, 4.º andar\n4715-275 Braga\n\nSave your spot and come celebrate 10 years of DSPT with us!\nSee you in Braga!",
-    "event_url": "https://www.meetup.com/datascienceportugal/events/316649983/",
-    "datetime": "2026-09-30T18:00:00+01:00",
-    "end_time": "2026-09-30T20:00:00+01:00",
-    "created_time": "2026-09-21T10:11:24-04:00",
+    "id": "316752210",
+    "title": "Building Agentic AI: Workshop + Challenge",
+    "description": "**Data Science Portugal (DSPT) is celebrating its 10th anniversary! 🎉**\n\nDSPT is officially hitting double digits (watch out, teenage years are right around the corner!) and we are celebrating hard! 🎂\n\nOn **October 10th (10/10) in Porto,** we are taking over the afternoon for a special **hands-on session focused on Agentic AI,** essential **design patterns,** and **hands-on development with AI agents.**\n\nThis event is for developers, data scientists, and AI builders who want to stop treating LLMs merely as conversational chatbots and start building real autonomous systems that perceive, decide, and act through tools 💡\n\n**🧠 What’s going to happen?**\nOver the course of the afternoon, participants will:\n• Take part in a deep-dive talk and workshop: **Building Agentic AI: Essential Design Patterns** led by **Ricardo Pereira** (U. Coimbra)\n• Work in teams to tackle a **practical challenge**\n• Use **GenAI tools** to speed up development and explore creative approaches\n• **Pitch** their final solution in a short presentation\n• **Vote** for the winning project 🎉\n🏆 **The winning team will receive tickets to Porto Tech Hub 2026!**\n\n**👥 Who is this event for?**\nThis workshop is geared toward practitioners and builders who want to look under the hood of autonomous agent architectures:\n**• Intermediate Python knowledge is required**\n• Curiosity and a willingness to build and experiment with autonomous workflows are essential 💪\n\nYou can:\n• Sign up with friends in **teams of 3–4 people**, or\n• **Join on your own**, and we’ll help you form a team on the day.\n\n**🗓️ Agenda**\n• 14:00 — Check-in & welcome\n• 14:30 — Talk: Building Agentinc AI - Essential Design Patterns by Ricardo Pereira\n• 15:30 — Team development session\n• 17:00 — Project pitches\n• 18:00 — Public voting & winner reveal\n\n**💻 What to bring**\n• Your laptop and charger\n• Python 3.10+ installed and ready\n\n**📌 Spots are limited -** Secure your seat, come build the future of autonomous AI with us, and celebrate 10 years of DSPT! 🚀\n\n**🎂 Full 10th Anniversary Program — Don't Forget to RSVP!**\nOctober 10th is a full day of celebrations for DSPT! Each part of the day has its own separate Meetup page for capacity control:\n\n1. Morning Session: Community & ecosystem track\n2. Afternoon Workshop (This Event): Building Agentic AI: Essential Design Patterns & Challenge\n3. Evening Party: The official DSPT 10-Year Anniversary Party - drinks, music, cake, and celebration!\n\n👉 Important: To join the morning sessions or evening party, make sure to RSVP individually for each event on Meetup so we can ensure proper headcount and logistics!",
+    "event_url": "https://www.meetup.com/datascienceportugal/events/316752210/",
+    "datetime": "2026-10-10T14:00:00+01:00",
+    "end_time": "2026-10-10T18:30:00+01:00",
+    "created_time": "2026-09-28T13:25:51-04:00",
     "status": "ACTIVE",
     "event_type": "PHYSICAL",
     "is_online": false,
@@ -14,21 +14,24 @@
     "attendees_count": 5,
     "max_tickets": 0,
     "venue": {
-      "id": "28340484",
-      "name": "Subvisual",
-      "address": "Polo de Negócios de Braga, Av. Dom João II 404 4º andar, Sala 42, 4715-275 Braga, Portugal",
-      "city": "Braga",
+      "id": "28355242",
+      "name": "Blip",
+      "address": "Av. de Camilo 94, 4300-095 Porto, Portugal",
+      "city": "Porto",
       "state": "",
       "country": "pt"
     },
     "creator": {
-      "id": "420462459",
-      "name": "Márcio Duarte"
+      "id": "398297164",
+      "name": "Emanuel Tomé"
     },
     "hosts": [
-      "274749320",
-      "478571187"
+      "253162835",
+      "398297164",
+      "474100643",
+      "457993468",
+      "371612853"
     ],
-    "featured_photo_url": "https://secure.meetupstatic.com/photos/event/7/9/5/d/highres_536251069.jpeg"
+    "featured_photo_url": "https://secure.meetupstatic.com/photos/event/d/e/1/9/highres_536396857.jpeg"
   }
 ]
