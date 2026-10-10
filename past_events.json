@@ -1,5 +1,38 @@
 [
   {
+    "id": "316795011",
+    "title": "Keeping Communities Alive: A Roundtable for Community Organizers",
+    "description": "**Data Science Portugal (DSPT) is celebrating its 10th anniversary! 🎉**\n\nDSPT is officially hitting double digits (watch out, teenage years are right around the corner!) and we are celebrating hard! 🎂\n\nOn **October 10th (10/10) in Porto,** we are starting our morning with a special **roundtable of AI + tech communities.**\n\nStarting a community is the easy part. Keeping it alive is harder. We're bringing together community organizers for an open roundtable about what happens behind the scenes: finding sponsors, keeping volunteers motivated, avoiding burnout, understanding what members actually want, and growing beyond your home city. This isn't a series of talks. It's a conversation. Come ready to share what has worked for you, what hasn't, and what you're still trying to figure out. Whether you've organized dozens of events or are thinking about starting your first community, there's a seat at the table for you.\n\n**🗣️ Joining the roundtable**\n• António Bezerra, DSPT\n• Filipe Macedo, API\n• Joana Pereira, Geek Girls Portugal Ambassador\n\nModerated by João Rocha, DSPT\n📍 Location: Porto Innovation Hub\n\n**🗓️ Agenda**\n• 10:00–10:15: Get together & welcome by DSPT\n• 10:15–11:15: Keeping Communities Alive: A Roundtable for Community Organizers\n• 11:15–11:25: Q&A\n• 11:30–12:00: Networking and bites\n• 12:00: Closing\n\n**🎂 Full 10th Anniversary Program: Don't Forget to RSVP!**\nOctober 10th is a full day of celebrations for DSPT! Each part of the day has its own separate Meetup page, so please RSVP individually for every event you want to attend:\n\n• 10:00–12:00: Keeping Communities Alive: A Roundtable for Community Organizers\nPorto Innovation Hub. This event!\n\n• 14:00–18:30: Building Agentic AI: Essential Design Patterns \\| Workshop \\+ Challenge\nBlip\nhttps://www.meetup.com/datascienceportugal/events/316752210/\n\n• 18:30–22:00: 10 Years of DSPT: Roundtable + Celebration\nJAM Porto\nhttps://www.meetup.com/datascienceportugal/events/316795141/\n\n👉 Joining us for the afternoon or evening too? Make sure to RSVP on each event's Meetup page so we can plan capacity, food and logistics.",
+    "event_url": "https://www.meetup.com/datascienceportugal/events/316795011/",
+    "datetime": "2026-10-10T10:00:00+01:00",
+    "end_time": "2026-10-10T12:00:00+01:00",
+    "created_time": "2026-10-01T07:46:52-04:00",
+    "status": "PAST",
+    "event_type": "PHYSICAL",
+    "is_online": false,
+    "rsvp_state": "PAST",
+    "attendees_count": 30,
+    "max_tickets": 0,
+    "venue": {
+      "id": "28361270",
+      "name": "Porto Innovation Hub",
+      "address": "Largo do Dr. Tito Fontes 15, 4000-538 Porto, Portugal",
+      "city": "Porto",
+      "state": "",
+      "country": "pt"
+    },
+    "creator": {
+      "id": "371612853",
+      "name": "Inês Oliveira e Silva"
+    },
+    "hosts": [
+      "371612853",
+      "457993468",
+      "376976570"
+    ],
+    "featured_photo_url": "https://secure.meetupstatic.com/photos/event/d/d/e/f/highres_536396815.jpeg"
+  },
+  {
     "id": "316649983",
     "title": "DSPT 10 Years: It's Not the Model, It's the Context | Braga",
     "description": "DSPT turns 10 this year, and we’re celebrating in Braga too 🏛️\n\nJoin us at Subvisual for two talks about what it takes to make AI work beyond the model, followed by time to meet Braga’s AI and data community.\n\n🎤 Margarida Lobato Costa \\| Cegid\n\nThe Hardest Part Wasn't AI - From Fraud Detection to Customer Understanding\nA Data Science project that began with fraud detection evolved into an anomaly detection solution. Margarida will share what the team learned while dealing with missing labels, limited visibility into customers, product constraints and unexpected user behaviour, and why understanding the people behind the data mattered as much as the algorithms.\n\n🎤 Pedro Costa \\| Condukt\nBuilding Trusted AI Agents for Compliance\nBanks and fintechs need to verify businesses at onboarding and throughout the customer relationship. Pedro will share how Condukt uses real-time registry data and AI agents to support this work, and what it takes to make their decisions auditable, repeatable and explainable when mistakes can have regulatory consequences.\n\n📅 September 30\n🕕 18:00–20:30\n📍 Subvisual — Pólo de Negócios de Braga\nAvenida Dom João II, 404, 4.º andar\n4715-275 Braga\n\nSave your spot and come celebrate 10 years of DSPT with us!",
@@ -43,7 +76,7 @@
     "event_type": "PHYSICAL",
     "is_online": false,
     "rsvp_state": "PAST",
-    "attendees_count": 61,
+    "attendees_count": 58,
     "max_tickets": 0,
     "venue": {
       "id": "28309542",
