@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "id": "316712155",
+    "title": "DSPT 10 Years: Spark Streaming Meetup in Coimbra",
+    "description": "Coimbra, we're back! 🎓\n\nWe're continuing our 10-year celebrations at Feedzai with a technical talk, followed by networking and bites.\n\nLessons Learned from Optimizing a Spark Streaming Pipeline\nJoão António \\| Stratio\n\nJoão will share how his team tackled reliability issues and higher-than-expected compute usage in a Spark Streaming pipeline that ingests device telemetry into a lakehouse.\n\nThe work also exposed architectural choices that downstream systems had come to depend on. He'll discuss the fixes, partitioning strategies, metadata management and flexible table formats, with practical lessons on investigating similar problems and planning refactors without breaking dependent systems.\n\nThis is an extended version of his Data Makers Fest talk, with more time for technical details and questions.\n\nAgenda\n18:00–18:10 · Get together\n18:10–18:20 · Welcome by DSPT\n18:20–19:15 · Talk + discussion\n19:15–20:30 · Networking and bites\n\n📅 Thursday, 22 October 2026 · 18:00–20:30\n📍 Feedzai, Instituto Pedro Nunes, Edif. D\nRua Pedro Nunes, 3030-199 Coimbra, Portugal\nMap: https://maps.app.goo.gl/rb8a6dTtwJvS16QJA\n\nThank you to Feedzai for hosting and sponsoring this meetup!\n\nWhether you've joined us in Coimbra before or this is your first DSPT event, we'd love to see you there 🖤",
+    "event_url": "https://www.meetup.com/datascienceportugal/events/316712155/",
+    "datetime": "2026-10-22T18:00:00+01:00",
+    "end_time": "2026-10-22T20:30:00+01:00",
+    "created_time": "2026-09-25T13:28:07-04:00",
+    "status": "ACTIVE",
+    "event_type": "PHYSICAL",
+    "is_online": false,
+    "rsvp_state": "JOIN_OPEN",
+    "attendees_count": 4,
+    "max_tickets": 0,
+    "venue": {
+      "id": "28385341",
+      "name": "Feedzai HQ and Coimbra Office",
+      "address": "R. Pedro Nunes, Alto de São João, 3030-790 Coimbra, Portugal",
+      "city": "Coimbra",
+      "state": "",
+      "country": "pt"
+    },
+    "creator": {
+      "id": "420462459",
+      "name": "Márcio Duarte"
+    },
+    "hosts": [
+      "320170101",
+      "423835671"
+    ],
+    "featured_photo_url": "https://secure.meetupstatic.com/photos/event/1/f/e/8/highres_536588168.jpeg"
+  }
+]
