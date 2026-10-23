@@ -1,5 +1,37 @@
 [
   {
+    "id": "316712155",
+    "title": "DSPT 10 Years: Spark Streaming Meetup in Coimbra",
+    "description": "Coimbra, we're back! 🎓\n\nWe're continuing our 10-year celebrations at Feedzai with a technical talk, followed by networking and bites.\n\nLessons Learned from Optimizing a Spark Streaming Pipeline\nJoão António \\| Stratio\n\nJoão will share how his team tackled reliability issues and higher-than-expected compute usage in a Spark Streaming pipeline that ingests device telemetry into a lakehouse.\n\nThe work also exposed architectural choices that downstream systems had come to depend on. He'll discuss the fixes, partitioning strategies, metadata management and flexible table formats, with practical lessons on investigating similar problems and planning refactors without breaking dependent systems.\n\nThis is an extended version of his Data Makers Fest talk, with more time for technical details and questions.\n\nAgenda\n18:00–18:10 · Get together\n18:10–18:20 · Welcome by DSPT\n18:20–19:15 · Talk + discussion\n19:15–20:30 · Networking and bites\n\n📅 Thursday, 22 October 2026 · 18:00–20:30\n📍 Feedzai, Instituto Pedro Nunes, Edif. D\nRua Pedro Nunes, 3030-199 Coimbra, Portugal\nMap: https://maps.app.goo.gl/rb8a6dTtwJvS16QJA\n\nThank you to Feedzai for hosting and sponsoring this meetup!\n\nWhether you've joined us in Coimbra before or this is your first DSPT event, we'd love to see you there 🖤",
+    "event_url": "https://www.meetup.com/datascienceportugal/events/316712155/",
+    "datetime": "2026-10-22T18:00:00+01:00",
+    "end_time": "2026-10-22T20:30:00+01:00",
+    "created_time": "2026-09-25T13:28:07-04:00",
+    "status": "PAST",
+    "event_type": "PHYSICAL",
+    "is_online": false,
+    "rsvp_state": "PAST",
+    "attendees_count": 13,
+    "max_tickets": 0,
+    "venue": {
+      "id": "28385341",
+      "name": "Feedzai HQ and Coimbra Office",
+      "address": "R. Pedro Nunes, Alto de São João, 3030-790 Coimbra, Portugal",
+      "city": "Coimbra",
+      "state": "",
+      "country": "pt"
+    },
+    "creator": {
+      "id": "420462459",
+      "name": "Márcio Duarte"
+    },
+    "hosts": [
+      "320170101",
+      "423835671"
+    ],
+    "featured_photo_url": "https://secure.meetupstatic.com/photos/event/1/f/e/8/highres_536588168.jpeg"
+  },
+  {
     "id": "316795141",
     "title": "10 Years of DSPT: Roundtable + Celebration",
     "description": "**Data Science Portugal (DSPT) is celebrating its 10th anniversary! 🎉**\n\nDSPT is officially hitting double digits (watch out, teenage years are right around the corner!) and we are celebrating hard! 🎂\n\nOn **October 10th (10/10) in Porto,** join us for a **roundtable with the founders and early speakers of DSPT**, followed by an amazing **birthday party!**\n\nWe'll be looking to discuss just how Data Science and Artificial Intelligence have changed in Portugal over the past 10 years. We'll be hearing directly from those who have already been in the field for a long time. Some nostalgia will certainly be in the mix!\n\n**🗣️ Joining the roundtable:**\n• Rita Ribeiro (FCUP)\n• Rui Quintino (agentiaPT)\n• Pedro Chaves (OLX)\n• Rui Mendes (DSPT)\n• Inês Silva (Feedzai)\n\nThe conversation will be moderated by Leonid Kholkine (DareData).\n\n**🗓️ Agenda**\n• 18:30 — Check-in & welcome\n• 19:00 — Roundtable: 10 Years of Data in Portugal\n• 20:00 — Drinks, bites, and celebration time!\n• 22:00 — Closing\n\n**🎂 Full 10th Anniversary Program**\n\nOctober 10th is a full day of celebrations for DSPT!\n\n10:00–12:00 \\| Keeping Communities Alive: A Roundtable for Community Organizers\n📍 Porto Innovation Hub\nhttps://www.meetup.com/datascienceportugal/events/316795011/\n\n14:00–18:30 \\| Building Agentic AI: Essential Design Patterns \\| Workshop \\+ Challenge\n📍 Blip\nhttps://www.meetup.com/datascienceportugal/events/316752210/\n\n18:30–22:00 \\| 10 Years of DSPT: Roundtable \\+ Celebration\n📍 JAM Porto\nYou're on this event's page!\n\n👉 Each event has its own RSVP. Please register separately for every session you’d like to attend.",
@@ -5769,7 +5801,7 @@
     "event_type": "PHYSICAL",
     "is_online": false,
     "rsvp_state": "PAST",
-    "attendees_count": 31,
+    "attendees_count": 30,
     "max_tickets": 0,
     "venue": {
       "id": "24833191",
